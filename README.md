@@ -8,6 +8,7 @@ USA - Corn Harvesting, Production & Fertilizer Consumption
 
 
 
+
 1. Planted and Harvested Acres:
 
 📈 Highest Planted Year: 2012 - 97 million acres, with 87 million acres harvested.
@@ -30,6 +31,7 @@ USA - Corn Harvesting, Production & Fertilizer Consumption
 
 
 
+
 2. Production Insights (1980-2022):
 
 📈 Consecutive increase from 6.6 to 14.5 billion Bushels on average.
@@ -46,6 +48,7 @@ USA - Corn Harvesting, Production & Fertilizer Consumption
 
 
 
+
 3. Nitrogen Demand Analysis (1980-2022):
 
 📈 Nitrogen usage increases with plantation area.
@@ -59,6 +62,7 @@ USA - Corn Harvesting, Production & Fertilizer Consumption
 🔗 Strong positive correlation between plantation and nitrogen usage.
 
 🔗 8-10% increase in usage every 5 years.
+
 
 
 
@@ -83,6 +87,7 @@ Potassium - 126.39 Billion pounds
 📈 Highest Consumption: 2000 - 10.6 Billion pounds for 9.9 Billion Bushels.
 
 📉 Least Consumption: 1995 - 9 Billion pounds for 7.4 Billion Bushels.
+
 
 
 
