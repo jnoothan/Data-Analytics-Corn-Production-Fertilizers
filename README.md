@@ -1,5 +1,3 @@
-Check out my analytics project about -
-
 USA - Corn Harvesting, Production & Fertilizer Consumption
 
 
